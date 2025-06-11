@@ -13,12 +13,6 @@
 5. [Recommendations](#Recommendations)
 6. [Conclusions](#Conclusions)
 
-
-# 🛒 Amazon India Sales Analysis (SQL + Power BI)
-
-**Tools Used:** MySQL Workbench, Power BI  
-**Dataset Size:** 128,975 rows | 21 columns
-
 ---
 
 ## 📌 Project Objective
