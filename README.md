@@ -214,7 +214,7 @@ After cleaning and exporting the dataset, Power BI was used to design an interac
    Sets, Kurta and Western Dress had the highest return and cancellation rates.
 
 4. **Shipping Method Analysis:**  
-   Expedited shipping had a higher share of failed deliveries compared to Standard.
+   Expedited shipping had a higher share of failed orders compared to Standard.
 
 5. **Daily Sales Pattern:**  
    Sunday recorded the highest sales (₹12M), followed by Tuesday and Saturday.  
